@@ -7,6 +7,38 @@
       "phone": "222-222-2222",
       "website": "yugsj.com",
       "id": 12
+    },
+    {
+      "name": "Raja",
+      "username": "Ks raja",
+      "email": "ksraja@gmail.com",
+      "phone": "8280676412",
+      "website": "www.github.com",
+      "id": 13
+    },
+    {
+      "name": "kunu",
+      "username": "amar",
+      "email": "amar@gmail.com",
+      "phone": "9090726276",
+      "website": "xyz.com",
+      "id": 14
+    },
+    {
+      "name": "manoj",
+      "username": "mishra",
+      "email": "misra@gmail.com",
+      "phone": "77256397882",
+      "website": "hhsj.com",
+      "id": 15
+    },
+    {
+      "name": "somya",
+      "username": "senapati",
+      "email": "senapati@gmail.com",
+      "phone": "848893793",
+      "website": "soymus.com",
+      "id": 16
     }
   ]
 }
