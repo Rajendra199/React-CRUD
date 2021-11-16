@@ -1,0 +1,11 @@
+.navbar{
+    padding: 40px 0;
+}
+
+.navbar-light.bg-light{
+    background: linear-gradient(45deg, rgb(204, 15, 15), orange, rgb(202, 83, 202), rgb(126, 190, 190));
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
